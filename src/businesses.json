@@ -1,0 +1,16 @@
+[
+    {
+       "id": 1,
+       "name": "Test Business One",
+       "description": "Some Coffee Shop",
+       "address" : "123 Main St.",
+       "hours" : "M-F 8-5" 
+    },
+    {
+      "id": 2,
+      "name": "Test Business Two",
+      "description": "Some Other Coffee Shop",
+      "address" : "132 Main St.",
+      "hours" : "M-S 8-5" 
+    }
+]
